@@ -20,17 +20,6 @@ O LiterAlura é um catálogo de livros interativo desenvolvido em Java que ofere
 - Buscar autor por nome
 
 
-## Índice
-
-- [Conversor de Moedas - Challenge Back End ONE](#conversor-de-moedas---challenge-back-end-one)
-  - [Descrição](#descrição)
-    - [Funcionalidades:](#funcionalidades)
-  - [Índice](#índice)
-  - [Tecnologias Usadas e Dependências](#tecnologias-usadas-e-dependências)
-  - [Instalação](#instalação)
-    - [Pré-requisitos](#pré-requisitos)
-    - [Configuração](#configuração)
-  - [Como Usar](#como-usar)
 
 ## Tecnologias Usadas e Dependências
 
